@@ -1,0 +1,5 @@
+.DS_Store
+dataset/train.txt
+.idea
+__pycache__
+.ipynb_checkpoints
