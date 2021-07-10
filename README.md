@@ -5,7 +5,7 @@
 
 
 
-- 模型在 notebook 文件中都有实现效果；
+- **模型在 notebook 文件中都有实现效果；**
 - 其中关于 Embedding 部分的思路及代码参考自 [pytorch-fm](https://github.com/rixwew/pytorch-fm)；
 
 
